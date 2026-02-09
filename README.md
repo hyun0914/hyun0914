@@ -41,14 +41,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun0914&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyun0914&show_icons=true&theme=tokyonight&hide_border=true)
-
-<br/>
-
 ## 🐾 Git Animals
 
 <a href="https://github.com/devxb/gitanimals">
