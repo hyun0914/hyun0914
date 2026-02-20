@@ -55,8 +55,8 @@
 - **Deployment**: Firebase Hosting, FileZilla(FTP) 기반 Flutter Web 배포
 
 ### 🌐 Web & Backend Integration
-- **Web**: HTML/CSS 기반 Flutter Web 반응형 UI 구현
-- **API Integration**: PHP 기반 REST API 연동 및 Dio Interceptor를 통한 토큰 관리 자동화
+- **Web**: Flutter Web 기반 반응형 UI 구현
+- **API Integration**: PHP 기반 REST API 연동 및 Dio를 활용한 HTTP 통신 구현
 - **Backend Learning**: Node.js + TypeScript + PostgreSQL 학습 중
 
 ### 🔧 Quality & Collaboration
