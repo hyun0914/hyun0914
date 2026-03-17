@@ -37,33 +37,6 @@
 
 <br/>
 
-## 💡 What I Do
-
-### 🎯 Mobile Development
-- **State Management**: BLoC, Provider, Riverpod, Flutter Hooks 기반 상태 관리
-- **Native Integration**: FCM 푸시 알림, 딥링크(app_links), AdFit 광고 연동, 위치 서비스
-- **UI/UX**: Material 3 디자인, 다크모드, Lottie 애니메이션, 반응형 레이아웃
-- **Data Visualization**: fl_chart, Syncfusion 활용한 통계 대시보드 구현
-- **Deployment**: App Store (TestFlight) 및 Google Play 배포 경험
-- **Localization**: easy_localization 기반 다국어 지원 (i18n)
-
-### ☁️ Infrastructure & DevOps
-- **AWS**: EC2 인스턴스 구축 및 MySQL 데이터베이스 운영 경험
-- **Web Deployment**: Firebase Hosting, FTP 기반 Flutter Web 배포
-- **Environment**: FVM을 통한 프로젝트별 SDK 버전 관리
-
-### 🔧 Quality & Performance
-- **Monitoring**: Sentry 기반 실시간 오류 추적 및 메모리 누수 분석
-- **Testing**: 다양한 디바이스 환경(태블릿, 폴드, 시뮬레이터) QA
-- **Collaboration**: Git Flow 전략, GitLab MR 코드 리뷰 프로세스
-- **API Integration**: REST API 연동 및 Dio Interceptor 활용
-
-### 🌐 Backend Learning
-- Node.js + TypeScript + PostgreSQL 학습 중
-- REST API 설계 및 구현 역량 강화
-
-<br/>
-
 ## 🐾 Git Animals
 
 <a href="https://github.com/devxb/gitanimals">
