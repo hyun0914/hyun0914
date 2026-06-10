@@ -48,7 +48,6 @@
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyun0914&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun0914&layout=compact&theme=default&hide_border=true)
 
 <br/>
