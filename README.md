@@ -1,11 +1,9 @@
 <div align="center">
 
 # 👋 Welcome to my GitHub!
-
 ### Flutter Developer
 
-> 사용자 경험 개선과 기술적 성장에 집중하는 Flutter 개발자입니다.  
-> 단순한 기능 구현을 넘어, 서비스가 안정적으로 운영되기까지의 전 과정을 고민합니다.
+> Flutter로 모바일 앱을 만들고, Node.js 백엔드까지 관심을 넓혀가는 개발자입니다.
 
 <br/>
 
@@ -16,7 +14,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Mobile & Cross-Platform
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -37,10 +34,21 @@
 
 <br/>
 
-## 🐾 Git Animals
+## 🚀 Projects
 
+### SpinEat
+> 🗺️ Kakao Maps 기반 주변 음식점 랜덤 추천 Flutter 앱
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyun0914/SpinEat)
+
+<br/>
+
+## 🐾 Git Animals
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyun0914" width="600"/>
+  <img src="https://render.gitanimals.org/lines/hyun0914" width="1000" height="120"/>
 </a>
 
 <br/>
