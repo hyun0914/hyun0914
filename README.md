@@ -1,4 +1,6 @@
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:3DDC84&height=150&section=header)
 
 # 👋 Welcome to my GitHub!
 ### Flutter Developer
@@ -43,12 +45,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyun0914/spin_eat)
-
-<br/>
-
-## 📊 Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun0914&layout=compact&theme=default&hide_border=true)
 
 <br/>
 
