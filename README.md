@@ -42,13 +42,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyun0914/SpinEat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyun0914/spin_eat)
 
 <br/>
 
 ## 🐾 Git Animals
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hyun0914" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/hyun0914" width="800"/>
 </a>
 
 <br/>
